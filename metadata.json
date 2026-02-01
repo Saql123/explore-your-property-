@@ -1,0 +1,7 @@
+{
+  "name": "EYP - Explore Your Property",
+  "description": "A premium real estate platform for luxury homes and transparent property consulting in Noida.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
